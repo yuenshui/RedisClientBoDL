@@ -56,6 +56,20 @@ Key/Value界面是开发和访问数据最常用的界面。支持字符串(`Str
 
 其他的数据类型，未来会支持。
 
+`Value`编辑器支持`Unicode`、`ASCII`、`Binary`、`Hexadecimal`、`JSON`、`XML`、`HTML`、`PHPSerializer`格式显示和修改
+
+![image-20250809132839967](./assets/image-20250809132839967.png)
+
+![image-20250809132902384](./assets/image-20250809132902384.png)
+
+
+
+![image-20250809132928706](./assets/image-20250809132928706.png)
+
+![image-20250809132954265](./assets/image-20250809132954265.png)
+
+![image-20250809133015392](./assets/image-20250809133015392.png)
+
 
 
 ## 发布订阅(`Pub`/`Sub`)
